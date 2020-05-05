@@ -1,0 +1,1 @@
+# Module 5 : Core Cloud Services - Manage services with Azure portal

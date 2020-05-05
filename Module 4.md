@@ -1,4 +1,4 @@
-# Module 4 - Core Cloud Services
+# Module 4 : Core Cloud Services - Azure Architecture & Service guarantees
 
 ## What are Regions?
 
