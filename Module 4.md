@@ -20,3 +20,8 @@
 ## What are Availability Zones?
 
 - Availability Zones (AZes) are basically isolated data center locations under each region which are there to ensure if one AZ is down then others are up & running to keep the services active.
+
+
+## What are Region pairs?
+
+- Each region is paired with another region under one geography to ensure that the services are running if the whole region stops working under any circumstances. Region pairs are also useful to roll out Azure updates turn-by-turn.  
