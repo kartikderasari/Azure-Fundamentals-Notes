@@ -10,4 +10,10 @@
 ## Navigating through Azure portal
 
 - Azure Marketplace
-    -
+    - It is a hub from which users can choose templates and different applications from many service providers.
+
+-  Azure Cloud Shell
+    - You need to click on icon (>_) to create a new Cloud Shell which has Bash and PowerShell support. 
+
+- Directory and Subscriptions
+    - You can have multiple subscriptions under one directory, and can change the current subscription from the panel.
